@@ -7,6 +7,8 @@
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=dig0jt&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dig0jt)](https://github.com/dig0jt/github-readme-stats)
+
 ### Skills
 
 <div style="display: inline_block"><br/>
